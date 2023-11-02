@@ -1,5 +1,10 @@
 /* Reset some default styles */
-body, h1, h2, ul, li, p {
+body,
+h1,
+h2,
+ul,
+li,
+p {
     margin: 0;
     padding: 0;
 }
@@ -43,6 +48,30 @@ footer {
     padding: 10px;
     background-color: #333;
     color: #fff;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    /* Example grid structure */
+    gap: 20px;
+}
+
+/* Apply styles to specific elements within the grid */
+#about {
+    grid-column: 1 / 2;
+}
+
+#projects {
+    grid-column: 2 / 3;
+}
+
+/* Use flexbox for more specific layout within sections */
+#projects article {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
 }
 
 /* Add more styles as needed for your specific content and design */
