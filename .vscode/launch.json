@@ -5,7 +5,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Launch Chrome against localhost",
-            "url": "https://github.com/JakeDino/JakeDino.github.io/tree/main", // Replace with your local server URL
+            "url": "https://github.com/JakeDino/JakeDino.github.io/tree/main",
             "webRoot": "${workspaceFolder}"
         }
     ]
