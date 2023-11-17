@@ -35,11 +35,6 @@ Hello, I'm Jacob Merendino, a passionate web developer with a focus on front-end
 
 Feel free to explore my projects and learn more about my skills and experience. If you have any questions or would like to connect, don't hesitate to reach out.
 
-## How to Run Locally
-
-1. Clone this repository.
-2. Open `index.html` in your web browser.
-
 ## Contact
 
 If you're interested in collaborating or have any inquiries, feel free to reach out:
