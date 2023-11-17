@@ -21,15 +21,11 @@ Hello, I'm Jacob Merendino, a passionate web developer with a focus on front-end
 
 ### Project Name 1
 
-- [GitHub Repository](https://github.com/yourusername/project-repo)
-- [Live Demo](https://yourusername.github.io/project)
-- ![Project Screenshot](project-screenshot.jpg)
+- [GitHub Repository](https://github.com/2023-Fall-Java-Cohort/racecar-debugging-JakeDino)
 
 ### Project Name 2
 
-- [GitHub Repository](https://github.com/yourusername/project-repo)
-- [Live Demo](https://yourusername.github.io/project)
-- ![Project Screenshot](project-screenshot.jpg)
+- [GitHub Repository](https://github.com/2023-Fall-Java-Cohort/virtual-pet-3-JakeDino)
 
 ## Usage
 
